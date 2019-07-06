@@ -14,19 +14,16 @@ Fábio Freitas - up201505331@fc.up.pt
 
 Nuno Lopes - up201505531@fc.up.pt
 
-# RSA-Gen
+# How to Run
 
-Função em Python que gera chaves RSA (n,p,q,e,d) dado um input l que representa o comprimento em bits para n
+Run with Python 2
 
-Realizado no âmbito da Unidade Curricular de Criptografia do Mestrado em Segurança Informática
+&nbsp;&nbsp;&nbsp;&nbsp;python 2.7 gen.py
 
-Departamento de Ciência de Computadores
+Run with Docker (uses pypy)
 
-Faculdade de Ciências da Universidade do Porto
+&nbsp;&nbsp;&nbsp;&nbsp;docker run gen-rsa
 
-Fábio Freitas - up201505331@fc.up.pt
-
-Nuno Lopes - up201505531@fc.up.pt
 
 # Relatório de Implementação
 
